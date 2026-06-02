@@ -119,7 +119,7 @@ screenshots inside `/screenshots` folder
 
 ---
 ### Add Student
-![Add Academic Supervisor](screenshots/add-student.png)
+![Add Student](screenshots/add-student.png)
 
 ### Edit Student Details
 ![Edit Student Details](screenshots/edit-students-details.png)
@@ -128,7 +128,7 @@ screenshots inside `/screenshots` folder
 ![Add Academic Supervisor](screenshots/add-accademic-supervisor.png)
 
 ### Add Company
-![Add Company](screenshots/Add-company.png)
+![Add Company](screenshots/add-company.png)
 
 ### Select Students
 ![Select Students](screenshots/select-students.png)
