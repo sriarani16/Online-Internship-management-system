@@ -109,6 +109,57 @@ InternshipManagementSystem/
 ## Screenshots
 screenshots inside `/screenshots` folder 
 
+### Login Page
+![Login](screenshots/login.png)
+
+---
+
+### Dashboard
+![Dashboard](screenshots/dashbord.png)
+
+---
+### Add Student
+![Add Academic Supervisor](screenshots/add-student.png)
+
+### Edit Student Details
+![Edit Student Details](screenshots/edit-students-details.png)
+
+### Add Academic Supervisor
+![Add Academic Supervisor](screenshots/add-accademic-supervisor.png)
+
+### Add Company
+![Add Company](screenshots/Add-company.png)
+
+### Select Students
+![Select Students](screenshots/select-students.png)
+
+### Select Company
+![Select Company](screenshots/select-company.png)
+
+### Fix Interview Date & Time
+![Interview Scheduling](screenshots/fix-date-and-time-for-interview.png)
+
+### Interview Schedule (Grouped by Company)
+![Interview Schedule](screenshots/interview-schedule-group-by-company.png)
+
+### Create Marking Scheme
+![Create Marking Scheme](screenshots/create-marking-scheme.png)
+
+### Final Selection Results
+![Final Selection](screenshots/final-selection.png)
+
+### Select Supervisor
+![Select Supervisor](screenshots/select-supervisor.png)
+
+### Send Progress Report
+![Progress Report](screenshots/sending-progress-report.png)
+
+### Provide Marks & Remarks
+![Provide Marks](screenshots/provide-marks.png)
+
+### Send Private Message
+![Private Message](screenshots/send-private-message.png)
+
 ---
 
 ## Testing & Evaluation
